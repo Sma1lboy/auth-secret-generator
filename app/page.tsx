@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import Link from 'next/link'
 import { generateSecret } from '@/lib/common'
 
 // Key icon component
@@ -46,10 +47,10 @@ export default function Home() {
       {/* Header */}
       <header className="header">
         <div className="header-content">
-          <a href="/" className="logo">
+          <Link href="/" className="logo">
             <KeyIcon />
             <span>Auth Secret Generator</span>
-          </a>
+          </Link>
         </div>
       </header>
 
