@@ -4,11 +4,11 @@ A minimalist web application for generating cryptographically secure secrets for
 
 ## Features
 
-- = Cryptographically secure random key generation
-- <� Black minimalist design
-- =� One-click copy to clipboard
-- < API endpoint for programmatic access
-- � Built with Next.js 15 and React 19
+- 🔐 Cryptographically secure random key generation
+- 🎨 Sleek minimalist design
+- 📋 One-click copy to clipboard
+- 🚀 API endpoint for programmatic access
+- ⚡ Built with Next.js 15 and React 19
 
 ## Getting Started
 
@@ -69,8 +69,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 ## License
 
-MIT
+MIT - See [LICENSE](LICENSE) for details.
 
 ---
 
-Build by [codefox](https://github.com/codefox-repo)
+Built by [codefox](https://github.com/codefox-repo)
