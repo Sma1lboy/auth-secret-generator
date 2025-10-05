@@ -5,10 +5,10 @@ A minimalist web application for generating cryptographically secure secrets for
 ## Features
 
 - = Cryptographically secure random key generation
-- <¨ Black minimalist design
-- =Ë One-click copy to clipboard
+- <ï¿½ Black minimalist design
+- =ï¿½ One-click copy to clipboard
 - < API endpoint for programmatic access
-- ¡ Built with Next.js 15 and React 19
+- ï¿½ Built with Next.js 15 and React 19
 
 ## Getting Started
 
@@ -50,7 +50,7 @@ Generate a new secret key programmatically.
 
 **Example:**
 ```bash
-curl https://your-domain.com/api/key
+curl https://auth-secret-generator-uoeg.vercel.app/api/key
 ```
 
 ## Deploy on Vercel
